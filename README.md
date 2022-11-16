@@ -1,3 +1,6 @@
+# Update 16.11.2022
+The prototype portal is currently down and needs redeployment and resolving conflicts to be running again.
+
 # WisHub
 ![](client/src/icons/logo.png)
 
